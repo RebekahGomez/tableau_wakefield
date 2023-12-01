@@ -6,7 +6,7 @@
 
 ## Project Details
 
-- This was my first project using Tableau. I taught myself over 4 weeks and found the process really rewarding. I really enjoyed finding this outlier in the dataset and investigating it further. This was the perfect blend of data representation and investigative journalism.
+- Very rewarding project using Tableau. I identified this outlier from years worth of data. This was the perfect blend of data representation and investigative journalism for me.
 - The workbook file is too large for GitHub - please see the uploaded .pdf or the links below for more info.
 
 ### Links
